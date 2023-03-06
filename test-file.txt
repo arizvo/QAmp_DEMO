@@ -1,3 +1,4 @@
 sadrzaj tekstualnog file
 dodatni sadrzaj dakle razlika jel
 jos jedna razlika koja se ne povlaci od strane drugog korisnika, jer je nastala nakon sto je povukao kod
+dodavanje novog sadrzaja od strane drugog usera
